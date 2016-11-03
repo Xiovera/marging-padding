@@ -1,1 +1,5 @@
-/* Agrega aqui tu CSS */
+div{
+	border:2px solid red;
+	width:15%;
+	padding: 0% 1%;
+}
